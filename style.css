@@ -161,10 +161,9 @@ color: grey;
     margin-bottom: 100px;
     display: inline-block;
     width: 500px;
-    /* padding-bottom: 200px; */
-    /* padding-top: 200px;   */
+    
     line-height: 4rem;
-    /* margin-top: ; */
+   
     margin-bottom: 20px;
     color: rgba(0, 0, 0, 0.76);
 
@@ -184,16 +183,12 @@ color: grey;
 }
 .uul{
     display: flex;
-    align-items: center;
-    justify-content: center;
+    
 }
 
 
  .ul2{
     display: flex;
-    /* gap: 2rem; */
-    /* justify-content: space-between; */
-    padding-left: 3rem;
  }
  .entity{
     gap: 2rem;
