@@ -184,6 +184,8 @@ color: grey;
 }
 .uul{
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
@@ -571,6 +573,14 @@ display: flex;
         margin-left: 10px;
         margin-bottom: 100px;
         
+    }
+    .uul{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding: 1rem;
+        width: 200px;
     }
 }
 
